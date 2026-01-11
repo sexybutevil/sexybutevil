@@ -23,10 +23,13 @@ feel free to sit with me if i have c+h in my name (or if im stting w/someone who
   </br>
 </br> my strawpage and rentry have way more info. if youre reading this youre really cool and i hope you have a wonderful day/night!! (unless you're my brother, artemis)  
     
- <em>[graphic creds](https://www.tumblr.com/hungryearning/757393969412964352/dave-strider-graphic-with-trans-flag?source=share)</em>
  
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=tq8wtzuuebqahsctvdi8njdlc&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark">
   </a>
-</p>
+</p>    
+
+ <em>[graphic creds](https://www.tumblr.com/hungryearning/757393969412964352/dave-strider-graphic-with-trans-flag?source=share)</em>  
+ 
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=perisicnikola37)
